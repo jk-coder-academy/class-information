@@ -1,15 +1,13 @@
 *
 {
     margin: 0;
-    padding: 0;
-    
+    padding: 0;    
 }
 
 
 html
 {
     background-color: gray;
-    margin: 0;
 }
 
 body
@@ -19,11 +17,34 @@ body
 h1
 {
     color: cyan;
-    margin: 0;
 }
 
 .titles
 {
     color: blue;
-    margin: 0;
+}
+
+.name
+{
+    color: purple;
+}
+
+p
+{
+    text-transform: uppercase;
+}
+
+#my-photo
+{
+
+}
+
+.links
+{
+
+}
+
+.container
+{
+    
 }
